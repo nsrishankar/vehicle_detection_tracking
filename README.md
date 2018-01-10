@@ -30,4 +30,4 @@ As can be seen this is not perfect- there are still false positves detected espe
 
 ## Improvements
 - Further augment the dataset using car/non-car images in various driving conditions.
-- Work-in-progress: Implement near-real time YOLO or tiny-YOLO for detection.
+- Implement near-real time YOLO or Single-Shot for detection.
